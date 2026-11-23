@@ -1,3 +1,5 @@
+ Copyright (c) 2007 Angelo Llanera Ranille 
+__________________________________________________
 <div>
     <img alt="Lido" src="https://img.shields.io/badge/v4.1.0-version?label=lido&labelColor=rgb(91%2C%20162%2C%20252)&color=white"/>
     <img alt="GitHub license" src="https://img.shields.io/github/license/lidofinance/lido-dao?labelColor=orange&color=white"/>
